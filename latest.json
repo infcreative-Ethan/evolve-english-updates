@@ -1,0 +1,14 @@
+{
+  "versionCode": 419747,
+  "version": "1.10 (2026.10.19)",
+  "notes": "新增：单元「写作」练习、单词表与教材完全一致、在线更新。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v419747/english-app-10.apk",
+  "apkSize": 67074745,
+  "packs": [
+    {
+      "packId": "evolve-1",
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
+    }
+  ]
+}
