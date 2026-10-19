@@ -1,13 +1,13 @@
 {
-  "versionCode": 419747,
-  "version": "1.10 (2026.10.19)",
-  "notes": "新增：单元「写作」练习、单词表与教材完全一致、在线更新。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v419747/english-app-10.apk",
-  "apkSize": 67074745,
+  "versionCode": 419790,
+  "version": "1.11 (2026.10.19)",
+  "notes": "改名「哆美丽」，换卡通猫图标；单词复习分识记、补全、默写三阶段；阅读改成对应原书的体裁；字母表不再算单词。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v419790/english-app-11.apk",
+  "apkSize": 67191925,
   "packs": [
     {
       "packId": "evolve-1",
-      "version": 2,
+      "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
     }
   ]
