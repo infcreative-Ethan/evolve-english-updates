@@ -1,14 +1,21 @@
 {
-  "versionCode": 419790,
-  "version": "1.11 (2026.10.19)",
-  "notes": "改名「哆美丽」，换卡通猫图标；单词复习分识记、补全、默写三阶段；阅读改成对应原书的体裁；字母表不再算单词。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v419790/english-app-11.apk",
-  "apkSize": 67191925,
+  "versionCode": 437968,
+  "version": "1.13 (2026.11.1)",
+  "notes": "新增听力（VOA Let's Learn English 全部 52 课）；课文里的每个词都能点开查释义，一键加入生词本。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v437968/english-app-13.apk",
+  "apkSize": 71045765,
   "packs": [
     {
       "packId": "evolve-1",
       "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
+    }
+  ],
+  "listen": [
+    {
+      "id": "lle1",
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-lle1.json"
     }
   ]
 }
