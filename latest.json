@@ -1,14 +1,31 @@
 {
-  "versionCode": 437968,
-  "version": "1.13 (2026.11.1)",
-  "notes": "新增听力（VOA Let's Learn English 全部 52 课）；课文里的每个词都能点开查释义，一键加入生词本。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v437968/english-app-13.apk",
-  "apkSize": 71045765,
+  "versionCode": 438036,
+  "version": "1.16 (2026.11.1)",
+  "notes": "听力新增第二级（Let's Learn English Level 2，30 课，逐句中文翻译）；听力页改为按课程选择，之后 As It Is 慢速新闻和 American Stories 美国短篇会陆续在线上架。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v438036/english-app-16.apk",
+  "apkSize": 71638045,
   "packs": [
     {
       "packId": "evolve-1",
       "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
+    }
+  ],
+  "courses": [
+    {
+      "id": "ams",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-ams.json"
+    },
+    {
+      "id": "lle1",
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-lle1.json"
+    },
+    {
+      "id": "lle2",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-lle2.json"
     }
   ],
   "listen": [
