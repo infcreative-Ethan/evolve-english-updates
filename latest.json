@@ -1,9 +1,9 @@
 {
-  "versionCode": 438036,
-  "version": "1.16 (2026.11.1)",
-  "notes": "听力新增第二级（Let's Learn English Level 2，30 课，逐句中文翻译）；听力页改为按课程选择，之后 As It Is 慢速新闻和 American Stories 美国短篇会陆续在线上架。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v438036/english-app-16.apk",
-  "apkSize": 71638045,
+  "versionCode": 438478,
+  "version": "1.17 (2026.11.1)",
+  "notes": "课程页改版：每 3 个单元一组，组末是清楚的「阶段测验」卡片，点「开始」就能做综合测验。听力新增第二级（30 课，逐句翻译）和 American Stories 美国经典短篇（20 篇，分段翻译）。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v438478/english-app-17.apk",
+  "apkSize": 72473717,
   "packs": [
     {
       "packId": "evolve-1",
