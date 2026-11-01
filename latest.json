@@ -14,7 +14,7 @@
   "courses": [
     {
       "id": "aii",
-      "version": 1,
+      "version": 2,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-aii.json"
     },
     {
