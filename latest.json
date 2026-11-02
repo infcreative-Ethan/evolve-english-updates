@@ -1,9 +1,9 @@
 {
-  "versionCode": 438478,
-  "version": "1.17 (2026.11.1)",
-  "notes": "课程页改版：每 3 个单元一组，组末是清楚的「阶段测验」卡片，点「开始」就能做综合测验。听力新增第二级（30 课，逐句翻译）和 American Stories 美国经典短篇（20 篇，分段翻译）。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v438478/english-app-17.apk",
-  "apkSize": 72473717,
+  "versionCode": 440014,
+  "version": "1.22 (2026.11.2)",
+  "notes": "新增「跟读测评」：在单词或短语页点话筒读一遍，手机上离线分析发音并打分（首次使用需下载约 111 MB 语音模型）。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v440014/english-app-22.apk",
+  "apkSize": 71671914,
   "packs": [
     {
       "packId": "evolve-1",
