@@ -1,9 +1,9 @@
 {
-  "versionCode": 440014,
-  "version": "1.22 (2026.11.2)",
-  "notes": "新增「跟读测评」：在单词或短语页点话筒读一遍，手机上离线分析发音并打分（首次使用需下载约 111 MB 语音模型）。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v440014/english-app-22.apk",
-  "apkSize": 71671914,
+  "versionCode": 445811,
+  "version": "1.24 (2026.11.6)",
+  "notes": "1. 生词本可以手动添加单词：在搜索框输入英文单词，点「查词典并添加」，自动带出音标和中文意思；词典里没有的可以自己填意思。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v445811/english-app-24.apk",
+  "apkSize": 71684498,
   "packs": [
     {
       "packId": "evolve-1",
