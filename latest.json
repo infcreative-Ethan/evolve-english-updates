@@ -1,9 +1,9 @@
 {
-  "versionCode": 446852,
-  "version": "1.26 (2026.11.7)",
-  "notes": "课程阅读的「朗读全文」也改用录制的美式发音，不再用手机语音。国内网络可从国内服务器下载。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446852/english-app-26.apk",
-  "apkSize": 71688010,
+  "versionCode": 446916,
+  "version": "1.28 (2026.11.7)",
+  "notes": "修复：阅读「朗读全文」现在真正使用录制发音；「我的 → 发音」可随时点「检查新录音」；复习时「再听一次」不再卡顿（国内网络下自加单词直接用手机语音，不再等待维基词典）。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446916/english-app-28.apk",
+  "apkSize": 71688298,
   "packs": [
     {
       "packId": "evolve-1",
