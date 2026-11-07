@@ -1,9 +1,9 @@
 {
-  "versionCode": 446565,
-  "version": "1.25 (2026.11.7)",
-  "notes": "国内网络也能用了：课本发音、VOA 听力、跟读模型和以后的更新，在国内会自动从国内服务器下载，不用开 VPN。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446565/english-app-25.apk",
-  "apkSize": 71687790,
+  "versionCode": 446852,
+  "version": "1.26 (2026.11.7)",
+  "notes": "课程阅读的「朗读全文」也改用录制的美式发音，不再用手机语音。国内网络可从国内服务器下载。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446852/english-app-26.apk",
+  "apkSize": 71688010,
   "packs": [
     {
       "packId": "evolve-1",
