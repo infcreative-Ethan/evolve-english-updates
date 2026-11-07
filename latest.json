@@ -1,9 +1,9 @@
 {
-  "versionCode": 446916,
-  "version": "1.28 (2026.11.7)",
-  "notes": "修复：阅读「朗读全文」现在真正使用录制发音；「我的 → 发音」可随时点「检查新录音」；复习时「再听一次」不再卡顿（国内网络下自加单词直接用手机语音，不再等待维基词典）。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446916/english-app-28.apk",
-  "apkSize": 71688298,
+  "versionCode": 447348,
+  "version": "1.32 (2026.11.7)",
+  "notes": "1. 新增第二册（Evolve Level 2）全部 12 个单元：在课程页「当前教材」点「换一册」切换，两册进度分开记录。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v447348/english-app-32.apk",
+  "apkSize": 71691234,
   "packs": [
     {
       "packId": "evolve-1",
