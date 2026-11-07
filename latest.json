@@ -1,9 +1,9 @@
 {
-  "versionCode": 445811,
-  "version": "1.24 (2026.11.6)",
-  "notes": "1. 生词本可以手动添加单词：在搜索框输入英文单词，点「查词典并添加」，自动带出音标和中文意思；词典里没有的可以自己填意思。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v445811/english-app-24.apk",
-  "apkSize": 71684498,
+  "versionCode": 446565,
+  "version": "1.25 (2026.11.7)",
+  "notes": "国内网络也能用了：课本发音、VOA 听力、跟读模型和以后的更新，在国内会自动从国内服务器下载，不用开 VPN。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v446565/english-app-25.apk",
+  "apkSize": 71687790,
   "packs": [
     {
       "packId": "evolve-1",
