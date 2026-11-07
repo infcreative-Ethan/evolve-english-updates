@@ -9,6 +9,11 @@
       "packId": "evolve-1",
       "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
+    },
+    {
+      "packId": "evolve-2",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-2.json"
     }
   ],
   "courses": [
