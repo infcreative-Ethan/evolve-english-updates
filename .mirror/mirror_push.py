@@ -88,12 +88,14 @@ def send(files, label):
 todo = [f for f in local if need(f)]
 lists = {'latest.json', 'tts/index.json'}
 ok = True
-# 1. pronunciation audio and course texts, then the list that points at them
-ok &= send([f for f in todo if rank(f)[0] <= 1 and f not in lists], 'pronunciation and texts') is not False
-ok &= send(['tts/index.json'], 'pronunciation list') is not False
-# 2. installer and speech model, then the update list that points at the installer
+# 1. course texts, the installer and speech model, then the update list that points at them
+#    (a new version reaches phones first; a big batch of re-recorded audio must not hold it up)
+ok &= send([f for f in todo if rank(f)[0] == 1 and f not in lists], 'course texts') is not False
 ok &= send([f for f in todo if rank(f)[0] in (2, 3)], 'installer and model') is not False
 ok &= send(['latest.json'], 'update list') is not False
+# 2. pronunciation audio, then the list that points at it
+ok &= send([f for f in todo if rank(f)[0] == 0], 'pronunciation audio') is not False
+ok &= send(['tts/index.json'], 'pronunciation list') is not False
 # 3. listening audio
 ok &= send([f for f in todo if rank(f)[0] == 4], 'listening audio') is not False
 sys.exit(0 if ok else 1)
