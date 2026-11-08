@@ -1,9 +1,9 @@
 {
-  "versionCode": 448051,
-  "version": "1.39 (2026.11.8)",
-  "notes": "1. 新增激活码：已经在用的手机自动激活，不受影响；新安装的手机可试用 3 天，之后需要输入激活码。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448051/english-app-39.apk",
-  "apkSize": 71850798,
+  "versionCode": 448589,
+  "version": "1.41 (2026.11.8)",
+  "notes": "1. 修复：切换到第二册后，生词本和复习里第一册的词显示成一串代码，现在正常显示单词和中文。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448589/english-app-41.apk",
+  "apkSize": 71852414,
   "packs": [
     {
       "packId": "evolve-1",
