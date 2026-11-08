@@ -41,10 +41,10 @@ jobs:
           git config --global user.name "app-builder"
           git config --global user.email "actions@users.noreply.github.com"
           git clone -q --depth 1 --filter=blob:none --sparse "https://x-access-token:${UPDATES_TOKEN}@github.com/infcreative-Ethan/evolve-english-updates.git" updates
-          (cd updates && git sparse-checkout set tts/w)  # cone mode: tts/words.txt comes with its folder
+          (cd updates && git sparse-checkout set tts/w2)  # cone mode: tts/words.txt comes with its folder
           python tools/tts/words.py updates/tts ${{ matrix.shard }} 20 ${{ inputs.top }}
           cd updates
-          git add -A tts
+          git add -A tts/w2 tts/words.txt
           git commit -qm "Word pronunciation audio (part ${{ matrix.shard }})" || { echo "nothing new"; exit 0; }
           for i in $(seq 1 30); do git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0; sleep $((RANDOM % 40 + 10)); done
           exit 1
