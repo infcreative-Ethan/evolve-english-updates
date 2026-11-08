@@ -1,9 +1,9 @@
 {
-  "versionCode": 447907,
-  "version": "1.37 (2026.11.8)",
-  "notes": "1. 新名字 Go to America，新图标自由女神像。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v447907/english-app-37.apk",
-  "apkSize": 71835546,
+  "versionCode": 448037,
+  "version": "1.38 (2026.11.8)",
+  "notes": "1. 首页顶部改成美国名人名言，每 9 秒换一句，点喇叭听发音，点文字换下一句。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448037/english-app-38.apk",
+  "apkSize": 71839914,
   "packs": [
     {
       "packId": "evolve-1",
