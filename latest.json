@@ -1,9 +1,9 @@
 {
-  "versionCode": 448589,
-  "version": "1.41 (2026.11.8)",
-  "notes": "1. 修复：切换到第二册后，生词本和复习里第一册的词显示成一串代码，现在正常显示单词和中文。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448589/english-app-41.apk",
-  "apkSize": 71852414,
+  "versionCode": 448621,
+  "version": "1.42 (2026.11.8)",
+  "notes": "1. 修复：荣耀等手机安装时提示“该安装包未包含任何证书”。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448621/english-app-42.apk",
+  "apkSize": 71932511,
   "packs": [
     {
       "packId": "evolve-1",
