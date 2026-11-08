@@ -1,9 +1,9 @@
 {
-  "versionCode": 448729,
-  "version": "1.44 (2026.11.8)",
-  "notes": "1. 修复：单词详情页的「词根词缀」「相关词」「用法提示」错位显示（例如出现 “## 中文” 字样），两册全部改正。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448729/english-app-44.apk",
-  "apkSize": 71954382,
+  "versionCode": 448823,
+  "version": "1.45 (2026.11.9)",
+  "notes": "1. 读音大修：单个单词和短语重新录音，不再吞掉结尾的音（catch、change、French 等）；2 万个常用词也全部重录。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448823/english-app-45.apk",
+  "apkSize": 71954359,
   "packs": [
     {
       "packId": "evolve-1",
