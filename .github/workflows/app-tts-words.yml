@@ -41,7 +41,7 @@ jobs:
           git config --global user.name "app-builder"
           git config --global user.email "actions@users.noreply.github.com"
           git clone -q --depth 1 --filter=blob:none --sparse "https://x-access-token:${UPDATES_TOKEN}@github.com/infcreative-Ethan/evolve-english-updates.git" updates
-          (cd updates && git sparse-checkout set tts/w tts/words.txt)
+          (cd updates && git sparse-checkout set tts/w)  # cone mode: tts/words.txt comes with its folder
           python tools/tts/words.py updates/tts ${{ matrix.shard }} 20 ${{ inputs.top }}
           cd updates
           git add -A tts
