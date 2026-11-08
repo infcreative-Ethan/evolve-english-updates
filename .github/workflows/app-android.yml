@@ -45,7 +45,7 @@ jobs:
           set -o pipefail
           {
             npm install --legacy-peer-deps
-            npx expo install expo-asset expo-audio expo-constants expo-document-picker expo-file-system expo-intent-launcher expo-sharing expo-speech expo-status-bar react-native-svg react-native-safe-area-context @react-native-async-storage/async-storage react react-native -- --legacy-peer-deps
+            npx expo install expo-application expo-asset expo-audio expo-constants expo-document-picker expo-file-system expo-intent-launcher expo-sharing expo-speech expo-status-bar react-native-svg react-native-safe-area-context @react-native-async-storage/async-storage react react-native -- --legacy-peer-deps
             npx expo install --check || npx expo install --fix -- --legacy-peer-deps
           } 2>&1 | tee build.log
           echo "::notice title=versions::$(npm ls expo expo-asset expo-audio expo-constants expo-file-system react-native --depth=0 2>/dev/null | tr '\n' ' ')"
