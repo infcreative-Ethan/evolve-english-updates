@@ -1,18 +1,18 @@
 {
-  "versionCode": 448693,
-  "version": "1.43 (2026.11.8)",
-  "notes": "1. 单词复习的「补全」「默写」卡片新增「遮中文」开关：打开后中文意思先遮住，只听发音拼写，想看时点一下。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448693/english-app-43.apk",
-  "apkSize": 71933250,
+  "versionCode": 448729,
+  "version": "1.44 (2026.11.8)",
+  "notes": "1. 修复：单词详情页的「词根词缀」「相关词」「用法提示」错位显示（例如出现 “## 中文” 字样），两册全部改正。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448729/english-app-44.apk",
+  "apkSize": 71954382,
   "packs": [
     {
       "packId": "evolve-1",
-      "version": 3,
+      "version": 4,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-1.json"
     },
     {
       "packId": "evolve-2",
-      "version": 2,
+      "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-2.json"
     }
   ],
