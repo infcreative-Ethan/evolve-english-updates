@@ -1,9 +1,9 @@
 {
-  "versionCode": 448037,
-  "version": "1.38 (2026.11.8)",
-  "notes": "1. 首页顶部改成美国名人名言，每 9 秒换一句，点喇叭听发音，点文字换下一句。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448037/english-app-38.apk",
-  "apkSize": 71839914,
+  "versionCode": 448051,
+  "version": "1.39 (2026.11.8)",
+  "notes": "1. 新增激活码：已经在用的手机自动激活，不受影响；新安装的手机可试用 3 天，之后需要输入激活码。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448051/english-app-39.apk",
+  "apkSize": 71850798,
   "packs": [
     {
       "packId": "evolve-1",
