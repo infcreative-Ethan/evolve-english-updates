@@ -1,9 +1,9 @@
 {
-  "versionCode": 448621,
-  "version": "1.42 (2026.11.8)",
-  "notes": "1. 修复：荣耀等手机安装时提示“该安装包未包含任何证书”。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448621/english-app-42.apk",
-  "apkSize": 71932511,
+  "versionCode": 448693,
+  "version": "1.43 (2026.11.8)",
+  "notes": "1. 单词复习的「补全」「默写」卡片新增「遮中文」开关：打开后中文意思先遮住，只听发音拼写，想看时点一下。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448693/english-app-43.apk",
+  "apkSize": 71933250,
   "packs": [
     {
       "packId": "evolve-1",
