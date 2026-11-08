@@ -1,9 +1,9 @@
 {
-  "versionCode": 447348,
-  "version": "1.32 (2026.11.7)",
-  "notes": "1. 新增第二册（Evolve Level 2）全部 12 个单元：在课程页「当前教材」点「换一册」切换，两册进度分开记录。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v447348/english-app-32.apk",
-  "apkSize": 71691234,
+  "versionCode": 447907,
+  "version": "1.37 (2026.11.8)",
+  "notes": "1. 新名字 Go to America，新图标自由女神像。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v447907/english-app-37.apk",
+  "apkSize": 71835546,
   "packs": [
     {
       "packId": "evolve-1",
