@@ -20,7 +20,7 @@ jobs:
     timeout-minutes: 340
     env:
       HOST: '101.35.43.66'
-      KEY: ${{ secrets.EVOLVE_SSH_KEY }}
+      KEY: ${{ secrets.EVOLVE_SSH_KEY || secrets.EVOLVE_HOST }}   # the key was saved under the name EVOLVE_HOST
     steps:
       - uses: actions/checkout@v4
       - name: Check settings
