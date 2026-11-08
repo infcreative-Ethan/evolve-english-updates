@@ -4,6 +4,10 @@
 name: Publish word pronunciation audio
 on:
   workflow_dispatch:
+    inputs:
+      top:
+        description: 'How many of the most common words'
+        default: '20000'
 permissions:
   contents: read
 jobs:
