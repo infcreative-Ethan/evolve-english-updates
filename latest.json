@@ -1,9 +1,9 @@
 {
-  "versionCode": 448823,
-  "version": "1.45 (2026.11.9)",
-  "notes": "1. 读音大修：单个单词和短语重新录音，不再吞掉结尾的音（catch、change、French 等）；2 万个常用词也全部重录。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v448823/english-app-45.apk",
-  "apkSize": 71954359,
+  "versionCode": 451520,
+  "version": "1.46 (2026.11.10)",
+  "notes": "1. 从单词列表点开单词再返回，回到原来的列表（同一个标签页、同样的筛选和滚动位置），不再跳回单元首页。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v451520/english-app-46.apk",
+  "apkSize": 71954702,
   "packs": [
     {
       "packId": "evolve-1",
