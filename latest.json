@@ -1,9 +1,9 @@
 {
-  "versionCode": 451520,
-  "version": "1.46 (2026.11.10)",
-  "notes": "1. 从单词列表点开单词再返回，回到原来的列表（同一个标签页、同样的筛选和滚动位置），不再跳回单元首页。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v451520/english-app-46.apk",
-  "apkSize": 71954702,
+  "versionCode": 453032,
+  "version": "1.47 (2026.11.11)",
+  "notes": "1. 听力播放器加「播完停止 / 单篇循环 / 顺序播放」三种方式（会记住你的选择）。单篇循环：一课反复播放；顺序播放：播完自动接着放下一课。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v453032/english-app-47.apk",
+  "apkSize": 71956261,
   "packs": [
     {
       "packId": "evolve-1",
