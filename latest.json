@@ -1,9 +1,9 @@
 {
-  "versionCode": 453032,
-  "version": "1.47 (2026.11.11)",
-  "notes": "1. 听力播放器加「播完停止 / 单篇循环 / 顺序播放」三种方式（会记住你的选择）。单篇循环：一课反复播放；顺序播放：播完自动接着放下一课。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v453032/english-app-47.apk",
-  "apkSize": 71956261,
+  "versionCode": 453855,
+  "version": "1.48 (2026.11.12)",
+  "notes": "1. 听力播放时，文字稿自动跟着滚动，正在读的那一句保持在屏幕上方；自己手动滑动时暂停跟随几秒，点任意一句会马上恢复。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v453855/english-app-48.apk",
+  "apkSize": 71956901,
   "packs": [
     {
       "packId": "evolve-1",
