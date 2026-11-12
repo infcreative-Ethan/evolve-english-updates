@@ -65,13 +65,19 @@ def send(files, label):
             with lock:
                 if not batches: return
                 b = batches.pop(0)
-            for attempt in range(4):
+            # a big file (the installer) on one connection often stalls part-way: send it in
+            # short tries that each carry on from where the last one stopped
+            big = len(b) == 1 and local[b[0]] > 5_000_000
+            for attempt in range(40 if big else 4):
                 try:
-                    code, out = rsync([SRC + '/', DEST + ':/'], files=b)
+                    if big:
+                        code, out = rsync(['--inplace', '--append-verify', SRC + '/', DEST + ':/'], files=b, timeout=300)
+                    else:
+                        code, out = rsync([SRC + '/', DEST + ':/'], files=b)
                 except subprocess.TimeoutExpired:
                     code, out = 1, 'timeout'
                 if code == 0: break
-                time.sleep(5 * (attempt + 1))
+                time.sleep(5 if big else 5 * (attempt + 1))
             with lock:
                 if code: fails.append((b[0], out.strip()[-200:]))
                 else: sent[0] += sum(local[f] for f in b)
@@ -91,8 +97,11 @@ ok = True
 # 1. course texts, the installer and speech model, then the update list that points at them
 #    (a new version reaches phones first; a big batch of re-recorded audio must not hold it up)
 ok &= send([f for f in todo if rank(f)[0] == 1 and f not in lists], 'course texts') is not False
-ok &= send([f for f in todo if rank(f)[0] in (2, 3)], 'installer and model') is not False
-ok &= send(['latest.json'], 'update list') is not False
+inst = send([f for f in todo if rank(f)[0] in (2, 3)], 'installer and model') is not False
+ok &= inst
+# never point phones at an installer that is not there yet
+if inst: ok &= send(['latest.json'], 'update list') is not False
+else: print('update list held back: the installer did not arrive')
 # 2. pronunciation audio, then the list that points at it
 ok &= send([f for f in todo if rank(f)[0] == 0], 'pronunciation audio') is not False
 ok &= send(['tts/index.json'], 'pronunciation list') is not False
