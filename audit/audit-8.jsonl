@@ -1,0 +1,134 @@
+{"kind": "book", "text": "block", "file": "e2b1bad21992.mp3", "heard": "Black", "phonemes": "blˈɑk", "cmu": ["B L AA1 K"], "why": ["heard_other"]}
+{"kind": "book", "text": "cot", "file": "8e861b0f5c69.mp3", "heard": "Cut", "phonemes": "kˈɑt", "cmu": ["K AA1 T"], "why": ["heard_other"]}
+{"kind": "book", "text": "eight", "file": "dd8ac0b20278.mp3", "heard": "8", "phonemes": "ˈAt", "cmu": ["EY1 T"], "why": ["heard_other"]}
+{"kind": "book", "text": "eye", "file": "f29b9c48053b.mp3", "heard": "Bye.", "phonemes": "ˈI", "cmu": ["AY1"], "why": ["heard_other"]}
+{"kind": "book", "text": "fifty", "file": "436dda163556.mp3", "heard": "50", "phonemes": "fˈɪfti", "cmu": ["F IH1 F T IY0"], "why": ["heard_other"]}
+{"kind": "book", "text": "it's fifteen dollars.", "file": "ad4492964c82.mp3", "heard": "It's $15.", "wer": 0.67, "why": ["sentence_differs"]}
+{"kind": "book", "text": "it's march twenty-first.", "file": "66c61971b5d4.mp3", "heard": "It's March 21st.", "wer": 0.5, "why": ["sentence_differs"]}
+{"kind": "book", "text": "it's ten forty-five. it's a quarter to eleven. it's noon.", "file": "723793a3717b.mp3", "heard": "It's 10 45. It's a quarter to 11. It's noon", "wer": 0.36, "why": ["sentence_differs"]}
+{"kind": "book", "text": "let's go to a taco place in east l.a.", "file": "16d3d7fbcf7e.mp3", "heard": "Let's go to Taco Place in East LA.", "wer": 0.3, "why": ["sentence_differs"]}
+{"kind": "book", "text": "roommate", "file": "ce9251c8c9b5.mp3", "heard": "Roommate", "phonemes": "ɹˈummˌAt", "cmu": ["R UW1 M EY2 T"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "book", "text": "she's thirty.", "file": "b53ac1a5ccd4.mp3", "heard": "She's 30.", "wer": 0.5, "why": ["sentence_differs"]}
+{"kind": "book", "text": "some", "file": "bf257d5703cc.mp3", "heard": "Summit", "phonemes": "sˌʌm", "cmu": ["S AH1 M"], "why": ["heard_other"]}
+{"kind": "book", "text": "two", "file": "32a6eddda9b8.mp3", "heard": "2", "phonemes": "tˈu", "cmu": ["T UW1"], "why": ["heard_other"]}
+{"kind": "book", "text": "windy", "file": "7a6742a9a3e6.mp3", "heard": "Wendy", "phonemes": "wˈɪndi", "cmu": ["W IH1 N D IY0", "W AY1 N D IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "abi", "file": "w/abi.mp3", "heard": "ABBA", "phonemes": "ˈæbI", "why": ["heard_other"]}
+{"kind": "word", "text": "afar", "file": "w/afar.mp3", "heard": "Efari", "phonemes": "əfˈɑɹ", "cmu": ["AH0 F AA1 R"], "why": ["heard_other"]}
+{"kind": "word", "text": "ahmed", "file": "w/ahmed.mp3", "heard": "ACMED", "phonemes": "ˈækmɛd", "cmu": ["AA1 M AH0 D", "AA1 M EH0 D"], "consonants_differ": true, "why": ["heard_other", "consonants_differ"]}
+{"kind": "word", "text": "annually", "file": "w/annually.mp3", "heard": "Annually.", "phonemes": "ˈænjəwəli", "cmu": ["AE1 N Y UW0 AH0 L IY0"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "archaeological", "file": "w/archaeological.mp3", "heard": "Archaeologic", "phonemes": "ˌɑɹkiəlˈɑʤəkᵊl", "cmu": ["AA2 R K IY0 AH0 L AA1 JH IH0 K AH0 L"], "why": ["heard_other"]}
+{"kind": "word", "text": "barge", "file": "w/barge.mp3", "heard": "Barred.", "phonemes": "bˈɑɹʤ", "cmu": ["B AA1 R JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "bathe", "file": "w/bathe.mp3", "heard": "Bae", "phonemes": "bˈAð", "cmu": ["B EY1 DH"], "why": ["heard_other"]}
+{"kind": "word", "text": "beans", "file": "w/beans.mp3", "heard": "Bands", "phonemes": "bˈinz", "cmu": ["B IY1 N Z"], "why": ["heard_other"]}
+{"kind": "word", "text": "betty", "file": "w/betty.mp3", "heard": "Baddie", "phonemes": "bˈɛTi", "cmu": ["B EH1 T IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "boogie", "file": "w/boogie.mp3", "heard": "Buggy", "phonemes": "bˈʊɡi", "cmu": ["B UW1 G IY0", "B UH1 G IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "borrow", "file": "w/borrow.mp3", "heard": "Barra.", "phonemes": "bˈɑɹO", "cmu": ["B AA1 R OW2"], "why": ["heard_other"]}
+{"kind": "word", "text": "bout", "file": "w/bout.mp3", "heard": "about", "phonemes": "bˈWt", "cmu": ["B AW1 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "breed", "file": "w/breed.mp3", "heard": "Breathe", "phonemes": "bɹˈid", "cmu": ["B R IY1 D"], "why": ["heard_other"]}
+{"kind": "word", "text": "bst", "file": "w/bst.mp3", "heard": "B.S.D.", "phonemes": "bˌiˌɛstˈi", "why": ["heard_other"]}
+{"kind": "word", "text": "cathy", "file": "w/cathy.mp3", "heard": "Cassie", "phonemes": "kˈæθi", "cmu": ["K AE1 TH IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "census", "file": "w/census.mp3", "heard": "Senses", "phonemes": "sˈɛnsəs", "cmu": ["S EH1 N S AH0 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "choice", "file": "w/choice.mp3", "heard": "Joys", "phonemes": "ʧˈYs", "cmu": ["CH OY1 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "cognitive", "file": "w/cognitive.mp3", "heard": "Cognotives", "phonemes": "kˈɑɡnəTɪv", "cmu": ["K AA1 G N IH0 T IH0 V"], "why": ["heard_other"]}
+{"kind": "word", "text": "conscientious", "file": "w/conscientious.mp3", "heard": "Conscientious", "phonemes": "kˌɑnʧiˈɛnʧəs", "cmu": ["K AA2 N SH IY0 EH1 N SH AH0 S"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "contiguous", "file": "w/contiguous.mp3", "heard": "Contiguous", "phonemes": "kəntˈɪɡjəwəs", "cmu": ["K AH0 N T IH1 G Y UW0 AH0 S"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "conventional", "file": "w/conventional.mp3", "heard": "Conventional", "phonemes": "kənvˈɛnʧᵊnəl", "cmu": ["K AH0 N V EH1 N SH AH0 N AH0 L"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "couch", "file": "w/couch.mp3", "heard": "Cow", "phonemes": "kˈWʧ", "cmu": ["K AW1 CH"], "why": ["heard_other"]}
+{"kind": "word", "text": "coyote", "file": "w/coyote.mp3", "heard": "KAOOT", "phonemes": "kˈIOt", "cmu": ["K AY0 OW1 T IY0", "K AY1 OW0 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "cricket", "file": "w/cricket.mp3", "heard": "Cricut", "phonemes": "kɹˈɪkɪt", "cmu": ["K R IH1 K AH0 T", "K R IH1 K IH0 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "dawn", "file": "w/dawn.mp3", "heard": "Done.", "phonemes": "dˈɔn", "cmu": ["D AO1 N"], "why": ["heard_other"]}
+{"kind": "word", "text": "disguised", "file": "w/disguised.mp3", "heard": "Disguised.", "phonemes": "dəskˈIzd", "cmu": ["D IH0 S G AY1 Z D"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "district", "file": "w/district.mp3", "heard": "Distract", "phonemes": "dˈɪstɹɪkt", "cmu": ["D IH1 S T R IH0 K T"], "why": ["heard_other"]}
+{"kind": "word", "text": "door", "file": "w/door.mp3", "heard": "Dora.", "phonemes": "dˈɔɹ", "cmu": ["D AO1 R"], "why": ["heard_other"]}
+{"kind": "word", "text": "edmund", "file": "w/edmund.mp3", "heard": "Admin", "phonemes": "ˈɛdmənd", "cmu": ["EH1 D M AH0 N D"], "why": ["heard_other"]}
+{"kind": "word", "text": "efficiencies", "file": "w/efficiencies.mp3", "heard": "Officiencies.", "phonemes": "əfˈɪʃənsiz", "cmu": ["IH0 F IH1 SH AH0 N S IY0 Z"], "why": ["heard_other"]}
+{"kind": "word", "text": "ejected", "file": "w/ejected.mp3", "heard": "Adjected.", "phonemes": "əʤˈɛktᵻd", "cmu": ["IH0 JH EH1 K T IH0 D"], "why": ["heard_other"]}
+{"kind": "word", "text": "emil", "file": "w/emil.mp3", "heard": "ML", "phonemes": "ˈɛmɪl", "cmu": ["EH0 M IY1 L"], "why": ["heard_other"]}
+{"kind": "word", "text": "emphasised", "file": "w/emphasised.mp3", "heard": "Emphasized", "phonemes": "ˈɛmfəsˌIzd", "why": ["heard_other"]}
+{"kind": "word", "text": "face", "file": "w/face.mp3", "heard": "Faze", "phonemes": "fˈAs", "cmu": ["F EY1 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "feeder", "file": "w/feeder.mp3", "heard": "Theater", "phonemes": "fˈidəɹ", "cmu": ["F IY1 D ER0"], "why": ["heard_other"]}
+{"kind": "word", "text": "fife", "file": "w/fife.mp3", "heard": "Vice.", "phonemes": "fˈIf", "cmu": ["F AY1 F"], "why": ["heard_other"]}
+{"kind": "word", "text": "fits", "file": "w/fits.mp3", "heard": "VIT", "phonemes": "fˈɪts", "cmu": ["F IH1 T S"], "why": ["heard_other"]}
+{"kind": "word", "text": "floppy", "file": "w/floppy.mp3", "heard": "Flappy", "phonemes": "flˈɑpi", "cmu": ["F L AA1 P IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "fluff", "file": "w/fluff.mp3", "heard": "I've left.", "phonemes": "flˈʌf", "cmu": ["F L AH1 F"], "why": ["heard_other"]}
+{"kind": "word", "text": "forensic", "file": "w/forensic.mp3", "heard": "forensic", "phonemes": "fəɹˈɛnzɪk", "cmu": ["F ER0 EH1 N S IH0 K", "F AO2 R EH1 N S IH0 K"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "fringe", "file": "w/fringe.mp3", "heard": "friend", "phonemes": "fɹˈɪnʤ", "cmu": ["F R IH1 N JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "fucks", "file": "w/fucks.mp3", "heard": "Vox", "phonemes": "fˈʌks", "cmu": ["F AH1 K S"], "why": ["heard_other"]}
+{"kind": "word", "text": "genera", "file": "w/genera.mp3", "heard": "Jenera", "phonemes": "ʤˈɛnəɹə", "cmu": ["JH EH1 N ER0 AH0"], "why": ["heard_other"]}
+{"kind": "word", "text": "genesis", "file": "w/genesis.mp3", "heard": "Genesys", "phonemes": "ʤˈɛnəsɪs", "cmu": ["JH EH1 N AH0 S AH0 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "grade", "file": "w/grade.mp3", "heard": "Great!", "phonemes": "ɡɹˈAd", "cmu": ["G R EY1 D"], "why": ["heard_other"]}
+{"kind": "word", "text": "greedy", "file": "w/greedy.mp3", "heard": "Gritty", "phonemes": "ɡɹˈidi", "cmu": ["G R IY1 D IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "horror", "file": "w/horror.mp3", "heard": "Hooray.", "phonemes": "hˈɔɹəɹ", "cmu": ["HH AO1 R ER0"], "why": ["heard_other"]}
+{"kind": "word", "text": "hubby", "file": "w/hubby.mp3", "heard": "I'll be here.", "phonemes": "hˈʌbi", "cmu": ["HH AH1 B IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "incorporating", "file": "w/incorporating.mp3", "heard": "Incorporating", "phonemes": "ɪŋkˈɔɹpəɹˌATɪŋ", "cmu": ["IH2 N K AO1 R P ER0 EY2 T IH0 NG"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "indulge", "file": "w/indulge.mp3", "heard": "in dull", "phonemes": "ɪndˈʌlʤ", "cmu": ["IH2 N D AH1 L JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "intervention", "file": "w/intervention.mp3", "heard": "Intervention.", "phonemes": "ˌɪntəɹvˈɛnʧᵊn", "cmu": ["IH2 N T ER0 V EH1 N SH AH0 N"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "jerome", "file": "w/jerome.mp3", "heard": "Jerum", "phonemes": "ʤˈɛɹOm", "cmu": ["JH ER0 OW1 M"], "why": ["heard_other"]}
+{"kind": "word", "text": "jose", "file": "w/jose.mp3", "heard": "Jose.", "phonemes": "hOsˈA", "cmu": ["HH OW2 Z EY1"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "juan", "file": "w/juan.mp3", "heard": "1", "phonemes": "hwˈɑn", "cmu": ["W AA1 N", "HH W AA1 N"], "why": ["heard_other"]}
+{"kind": "word", "text": "keen", "file": "w/keen.mp3", "heard": "Kin", "phonemes": "kˈin", "cmu": ["K IY1 N"], "why": ["heard_other"]}
+{"kind": "word", "text": "leafy", "file": "w/leafy.mp3", "heard": "Alifia", "phonemes": "lˈifi", "cmu": ["L IY1 F IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "lease", "file": "w/lease.mp3", "heard": "Leith", "phonemes": "lˈis", "cmu": ["L IY1 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "ln", "file": "w/ln.mp3", "heard": "Ellen.", "phonemes": "ˌɛlˈɛn", "cmu": ["L EY1 N"], "why": ["heard_other"]}
+{"kind": "word", "text": "manure", "file": "w/manure.mp3", "heard": "Menor", "phonemes": "mənˈʊɹ", "cmu": ["M AH0 N UH1 R"], "why": ["heard_other"]}
+{"kind": "word", "text": "mare", "file": "w/mare.mp3", "heard": "Mayor.", "phonemes": "mˈɛɹ", "cmu": ["M EH1 R"], "why": ["heard_other"]}
+{"kind": "word", "text": "marjorie", "file": "w/marjorie.mp3", "heard": "Marjorie", "phonemes": "mˈɑɹʤəɹɹi", "cmu": ["M AA1 R JH ER0 IY0", "M AA1 R JH R IY0"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "mayo", "file": "w/mayo.mp3", "heard": "maya", "phonemes": "mˈAO", "cmu": ["M EY1 OW0"], "why": ["heard_other"]}
+{"kind": "word", "text": "mention", "file": "w/mention.mp3", "heard": "Mention", "phonemes": "mˈɛnʧᵊn", "cmu": ["M EH1 N SH AH0 N"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "meth", "file": "w/meth.mp3", "heard": "M.A.S.T.", "phonemes": "mˈɛθ", "cmu": ["M EH1 TH"], "why": ["heard_other"]}
+{"kind": "word", "text": "misogyny", "file": "w/misogyny.mp3", "heard": "Misogyny", "phonemes": "məsˈɑʤəni", "cmu": ["M IH1 Z AH0 JH IH0 N IY0"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "moss", "file": "w/moss.mp3", "heard": "Maas.", "phonemes": "mˈɔs", "cmu": ["M AO1 S"], "why": ["heard_other"]}
+{"kind": "word", "text": "mph", "file": "w/mph.mp3", "heard": "MP8", "phonemes": "ˌɛmpˌiˈAʧ", "cmu": ["EH1 M P IY1 EY1 CH", "M AY1 L Z P ER0 AW1 ER0"], "why": ["heard_other"]}
+{"kind": "word", "text": "muster", "file": "w/muster.mp3", "heard": "Mustard", "phonemes": "mˈʌstəɹ", "cmu": ["M AH1 S T ER0"], "why": ["heard_other"]}
+{"kind": "word", "text": "neurological", "file": "w/neurological.mp3", "heard": "Neurologica", "phonemes": "nˌʊɹəlˈɑʤəkᵊl", "cmu": ["N UH2 R AH0 L AA1 JH IH0 K AH0 L"], "why": ["heard_other"]}
+{"kind": "word", "text": "nuclei", "file": "w/nuclei.mp3", "heard": "Nuclea", "phonemes": "nˈukliˌI", "cmu": ["N UW1 K L IY0 AY2"], "why": ["heard_other"]}
+{"kind": "word", "text": "oh", "file": "w/oh.mp3", "heard": "though", "phonemes": "ˈO", "cmu": ["OW1"], "why": ["heard_other"]}
+{"kind": "word", "text": "om", "file": "w/om.mp3", "heard": "Ohm", "phonemes": "ˈOm", "cmu": ["AO1 M"], "why": ["heard_other"]}
+{"kind": "word", "text": "pasta", "file": "w/pasta.mp3", "heard": "pasté", "phonemes": "pˈɑstə", "cmu": ["P AA1 S T AH0"], "why": ["heard_other"]}
+{"kind": "word", "text": "peat", "file": "w/peat.mp3", "heard": "Pee it.", "phonemes": "pˈit", "cmu": ["P IY1 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "peep", "file": "w/peep.mp3", "heard": "T.E.A.B.", "phonemes": "pˈip", "cmu": ["P IY1 P"], "why": ["heard_other"]}
+{"kind": "word", "text": "pep", "file": "w/pep.mp3", "heard": "Tappy", "phonemes": "pˈɛp", "cmu": ["P EH1 P"], "why": ["heard_other"]}
+{"kind": "word", "text": "philosophical", "file": "w/philosophical.mp3", "heard": "Philosophica.", "phonemes": "fˌɪləsˈɑfəkᵊl", "cmu": ["F IH2 L AH0 S AA1 F IH0 K AH0 L"], "why": ["heard_other"]}
+{"kind": "word", "text": "pic", "file": "w/pic.mp3", "heard": "PEC", "phonemes": "pˈɪk", "cmu": ["P IH1 K"], "why": ["heard_other"]}
+{"kind": "word", "text": "pilgrimage", "file": "w/pilgrimage.mp3", "heard": "Pilgrimid", "phonemes": "pˈɪlɡɹəmɪʤ", "cmu": ["P IH1 L G R AH0 M AH0 JH", "P IH1 L G R AH0 M IH0 JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "play-off", "file": "w/play-off.mp3", "heard": "playoff", "wer": 1.0, "why": ["sentence_differs"]}
+{"kind": "word", "text": "plea", "file": "w/plea.mp3", "heard": "Play", "phonemes": "plˈi", "cmu": ["P L IY1"], "why": ["heard_other"]}
+{"kind": "word", "text": "practising", "file": "w/practising.mp3", "heard": "Practicing", "phonemes": "pɹˈæktəsɪŋ", "why": ["heard_other"]}
+{"kind": "word", "text": "premieres", "file": "w/premieres.mp3", "heard": "Premieres", "phonemes": "pɹimjˈɛɹz", "cmu": ["P R EH0 M IH1 R Z"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "pseudo", "file": "w/pseudo.mp3", "heard": "SUDA", "phonemes": "sˈudO", "cmu": ["S UW1 D OW0"], "why": ["heard_other"]}
+{"kind": "word", "text": "pub", "file": "w/pub.mp3", "heard": "Poppy", "phonemes": "pˈʌb", "cmu": ["P AH1 B"], "why": ["heard_other"]}
+{"kind": "word", "text": "rage", "file": "w/rage.mp3", "heard": "Ray.", "phonemes": "ɹˈAʤ", "cmu": ["R EY1 JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "rampage", "file": "w/rampage.mp3", "heard": "R.A.M.P.A.", "phonemes": "ɹˈæmpˌAʤ", "cmu": ["R AE1 M P EY2 JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "revenge", "file": "w/revenge.mp3", "heard": "REVENDE", "phonemes": "ɹəvˈɛnʤ", "cmu": ["R IY0 V EH1 N JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "rib", "file": "w/rib.mp3", "heard": "Ribbit", "phonemes": "ɹˈɪb", "cmu": ["R IH1 B"], "why": ["heard_other"]}
+{"kind": "word", "text": "roommates", "file": "w/roommates.mp3", "heard": "Roommates", "phonemes": "ɹˈummˌAts", "cmu": ["R UW1 M EY2 T S"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "rub", "file": "w/rub.mp3", "heard": "Robby.", "phonemes": "ɹˈʌb", "cmu": ["R AH1 B"], "why": ["heard_other"]}
+{"kind": "word", "text": "run-ups", "file": "w/run-ups.mp3", "heard": "Runups", "wer": 1.0, "why": ["sentence_differs"]}
+{"kind": "word", "text": "saga", "file": "w/saga.mp3", "heard": "Sage", "phonemes": "sˈɑɡə", "cmu": ["S AA1 G AH0"], "why": ["heard_other"]}
+{"kind": "word", "text": "seeks", "file": "w/seeks.mp3", "heard": "A-six.", "phonemes": "sˈiks", "cmu": ["S IY1 K S"], "why": ["heard_other"]}
+{"kind": "word", "text": "sept", "file": "w/sept.mp3", "heard": "Decepta", "phonemes": "sˈɛpt", "cmu": ["S EH1 P T"], "why": ["heard_other"]}
+{"kind": "word", "text": "set", "file": "w/set.mp3", "heard": "said", "phonemes": "sˈɛt", "cmu": ["S EH1 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "shift", "file": "w/shift.mp3", "heard": "Shifter.", "phonemes": "ʃˈɪft", "cmu": ["SH IH1 F T"], "why": ["heard_other"]}
+{"kind": "word", "text": "siege", "file": "w/siege.mp3", "heard": "See ya!", "phonemes": "sˈiʤ", "cmu": ["S IY1 JH"], "why": ["heard_other"]}
+{"kind": "word", "text": "six", "file": "w/six.mp3", "heard": "It's exit", "phonemes": "sˈɪks", "cmu": ["S IH1 K S"], "why": ["heard_other"]}
+{"kind": "word", "text": "soy", "file": "w/soy.mp3", "heard": "Sorry.", "phonemes": "sˈY", "cmu": ["S OY1"], "why": ["heard_other"]}
+{"kind": "word", "text": "speech", "file": "w/speech.mp3", "heard": "It's beige.", "phonemes": "spˈiʧ", "cmu": ["S P IY1 CH"], "why": ["heard_other"]}
+{"kind": "word", "text": "stalk", "file": "w/stalk.mp3", "heard": "stock", "phonemes": "stˈɔk", "cmu": ["S T AO1 K"], "why": ["heard_other"]}
+{"kind": "word", "text": "state", "file": "w/state.mp3", "heard": "Stay it.", "phonemes": "stˈAt", "cmu": ["S T EY1 T"], "why": ["heard_other"]}
+{"kind": "word", "text": "stephenson", "file": "w/stephenson.mp3", "heard": "Steffensen", "phonemes": "stˈɛfɛnsən", "cmu": ["S T IY1 V AH0 N S AH0 N"], "consonants_differ": true, "why": ["heard_other", "consonants_differ"]}
+{"kind": "word", "text": "sup", "file": "w/sup.mp3", "heard": "Stop it.", "phonemes": "sˈʌp", "cmu": ["S AH1 P"], "why": ["heard_other"]}
+{"kind": "word", "text": "surrey", "file": "w/surrey.mp3", "heard": "Sorry", "phonemes": "sˈɜɹi", "cmu": ["S ER1 IY0"], "why": ["heard_other"]}
+{"kind": "word", "text": "team-mate", "file": "w/team-mate.mp3", "heard": "Teammate", "wer": 1.0, "why": ["sentence_differs"]}
+{"kind": "word", "text": "ter", "file": "w/ter.mp3", "heard": "TUR", "phonemes": "tˈɜɹ", "cmu": ["T ER1"], "why": ["heard_other"]}
+{"kind": "word", "text": "thief", "file": "w/thief.mp3", "heard": "Thieves.", "phonemes": "θˈif", "cmu": ["TH IY1 F"], "why": ["heard_other"]}
+{"kind": "word", "text": "tomb", "file": "w/tomb.mp3", "heard": "TUM", "phonemes": "tˈum", "cmu": ["T UW1 M"], "why": ["heard_other"]}
+{"kind": "word", "text": "took", "file": "w/took.mp3", "heard": "TUG", "phonemes": "tˈʊk", "cmu": ["T UH1 K"], "why": ["heard_other"]}
+{"kind": "word", "text": "tourist", "file": "w/tourist.mp3", "heard": "Taurus", "phonemes": "tˈʊɹɪst", "cmu": ["T UH1 R AH0 S T", "T UH1 R IH0 S T"], "why": ["heard_other"]}
+{"kind": "word", "text": "truck", "file": "w/truck.mp3", "heard": "TRUG", "phonemes": "tɹˈʌk", "cmu": ["T R AH1 K"], "why": ["heard_other"]}
+{"kind": "word", "text": "two", "file": "w/two.mp3", "heard": "2", "phonemes": "tˈu", "cmu": ["T UW1"], "why": ["heard_other"]}
+{"kind": "word", "text": "upheld", "file": "w/upheld.mp3", "heard": "Appelled", "phonemes": "ˌʌphˈɛld", "cmu": ["AH0 P HH EH1 L D"], "why": ["heard_other"]}
+{"kind": "word", "text": "upton", "file": "w/upton.mp3", "heard": "opt-in", "phonemes": "ˈʌptən", "cmu": ["AH1 P T AH0 N"], "why": ["heard_other"]}
+{"kind": "word", "text": "use", "file": "w/use.mp3", "heard": "Yours", "phonemes": "jˈus", "cmu": ["Y UW1 S", "Y UW1 Z"], "why": ["heard_other"]}
+{"kind": "word", "text": "virtue", "file": "w/virtue.mp3", "heard": "VIRTUAL", "phonemes": "vˈɜɹʧu", "cmu": ["V ER1 CH UW0"], "why": ["heard_other"]}
+{"kind": "word", "text": "wanting", "file": "w/wanting.mp3", "heard": "Wanting", "phonemes": "wˈɑnttɪŋ", "cmu": ["W AA1 N T IH0 NG", "W AA1 N IH0 NG"], "consonants_differ": true, "why": ["consonants_differ"]}
+{"kind": "word", "text": "whom", "file": "w/whom.mp3", "heard": "Come.", "phonemes": "hˈum", "cmu": ["HH UW1 M"], "why": ["heard_other"]}
