@@ -1,9 +1,9 @@
 {
-  "versionCode": 453855,
-  "version": "1.48 (2026.11.12)",
-  "notes": "1. 听力播放时，文字稿自动跟着滚动，正在读的那一句保持在屏幕上方；自己手动滑动时暂停跟随几秒，点任意一句会马上恢复。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v453855/english-app-48.apk",
-  "apkSize": 71956901,
+  "versionCode": 464335,
+  "version": "1.49 (2026.11.19 Book 3)",
+  "notes": "新增第三册全部12个单元、词库、对话、语法、阅读写作及复习，支持第三册原书音频导入；直接覆盖更新保留学习记录。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v464335/Evolve-English-1.49-Book3.apk",
+  "apkSize": 71119305,
   "packs": [
     {
       "packId": "evolve-1",
@@ -14,6 +14,11 @@
       "packId": "evolve-2",
       "version": 3,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-2.json"
+    },
+    {
+      "packId": "evolve-3",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-3.json"
     }
   ],
   "courses": [
@@ -44,5 +49,6 @@
       "version": 2,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-lle1.json"
     }
-  ]
+  ],
+  "apkSha256": "f6b642c293929d8ca9bc260bc796b7c7251e15094548f5d5414531726ebac95f"
 }
