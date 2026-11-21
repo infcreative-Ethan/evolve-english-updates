@@ -1,9 +1,9 @@
 {
-  "versionCode": 464335,
-  "version": "1.49 (2026.11.19 Book 3)",
-  "notes": "新增第三册全部12个单元、词库、对话、语法、阅读写作及复习，支持第三册原书音频导入；直接覆盖更新保留学习记录。",
-  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v464335/Evolve-English-1.49-Book3.apk",
-  "apkSize": 71119305,
+  "versionCode": 466825,
+  "version": "1.50 (2026.11.21 Book 4)",
+  "notes": "新增第四册12个单元、332个词条、对话、语法、阅读写作与阶段复习；兼容第四册114个原书音频文件名。请直接覆盖更新，保留原有学习记录。",
+  "apkUrl": "https://github.com/infcreative-Ethan/evolve-english-updates/releases/download/v466825/Evolve-English-1.50-Book4.apk",
+  "apkSize": 71322264,
   "packs": [
     {
       "packId": "evolve-1",
@@ -19,6 +19,11 @@
       "packId": "evolve-3",
       "version": 1,
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-3.json"
+    },
+    {
+      "packId": "evolve-4",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/evolve-4.json"
     }
   ],
   "courses": [
@@ -50,5 +55,5 @@
       "url": "https://raw.githubusercontent.com/infcreative-Ethan/evolve-english-updates/main/packs/listen-lle1.json"
     }
   ],
-  "apkSha256": "f6b642c293929d8ca9bc260bc796b7c7251e15094548f5d5414531726ebac95f"
+  "apkSha256": "71a5aaf67d884b2ab9f158d08f138a474aa15ffa665785d4d52a76f48e232ba8"
 }
